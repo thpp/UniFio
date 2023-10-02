@@ -8,6 +8,7 @@ public class GitunifioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitunifioApplication.class, args);
+		System.out.println("Teste...")
 	}
 
 }
